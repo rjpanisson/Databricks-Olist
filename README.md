@@ -10,7 +10,7 @@ A Olist é uma plataforma brasileira de e-commerce que conecta pequenos lojistas
 
 **Ferramentas utilizadas:** Databricks, SQL, Delta Lake  
 **Arquitetura:** Medallion (bronze → silver → gold)  
-**Dados:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — Kaggle
+**Dados:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Kaggle
 
 ---
 
