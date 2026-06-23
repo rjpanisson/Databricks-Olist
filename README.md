@@ -1,4 +1,4 @@
-# Análise de Satisfação de Clientes — Olist E-commerce
+# Análise de Satisfação de Clientes - Olist E-commerce
 
 Análise exploratória dos dados públicos da Olist com foco em satisfação do cliente, tempo de entrega e desempenho por categoria de produto.
 
@@ -28,7 +28,7 @@ Clientes que deram nota 5 receberam seus pedidos em média **10.6 dias** e **13.
 | 4    | 18.987       | 12.3 dias         | 12.4 dias           |
 | 5    | 57.060       | 10.6 dias         | 13.4 dias           |
 
-> Conclusão: não é apenas sobre atrasar — chegar bem antes do prazo é o que gera nota máxima.
+> Conclusão: não é apenas sobre atrasar, chegar bem antes do prazo é o que gera nota máxima.
 
 ---
 
@@ -52,8 +52,8 @@ As 5 categorias com pior média de satisfação (mínimo 100 reviews):
 
 A média geral da plataforma é **4.09**, mas meses de alto volume ou feriados prolongados registram quedas expressivas:
 
-- **Dezembro 2017:** nota 3.95 com 7.668 reviews — reflexo da Black Friday e natal
-- **Março 2018:** pior mês do período com nota **3.76** e 7.475 reviews — impacto logístico do Carnaval, com pedidos feitos em fevereiro chegando atrasados
+- **Dezembro 2017:** nota 3.95 com 7.668 reviews —> reflexo da Black Friday e natal
+- **Março 2018:** pior mês do período com nota **3.76** e 7.475 reviews —> impacto logístico do Carnaval, com pedidos feitos em fevereiro chegando atrasados
 
 > Conclusão: a logística não acompanha os picos de demanda, e feriados prolongados agravam os atrasos.
 
